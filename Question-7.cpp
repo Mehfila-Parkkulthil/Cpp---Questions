@@ -10,6 +10,6 @@ int main(){
  for(int i=1;i<=n;i++){
   prod*=i;
  }
-cout <<prod;
+cout <<"factorial of n : "<<prod <<endl;
   return 0;
 }
