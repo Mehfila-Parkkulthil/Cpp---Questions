@@ -1,14 +1,10 @@
-// Question 1
-// String Concatenation
+/* Question 1
+Print hello world 
+*/
 
 #include <iostream>
-#include <string>
 using namespace std;
-int main(){
-   string age = "23";
-   string  name = "Aiera" ;
-   string person = name + " " + age;
-   
-   cout << person;
+int main (){
+   cout << "Hello world";
    return 0;
 }
