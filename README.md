@@ -2,7 +2,7 @@
 |S.no|Question|Link|
 |:---|:---|:---|
 
-|1||[Click Here](https://github.com/Mehfila-Parkkulthil/Cpp---Questions/blob/main/Question-1.cpp) | 
+|1|Question 1|[Click Here](https://github.com/Mehfila-Parkkulthil/Cpp---Questions/blob/main/Question-1.cpp) | 
 |2||[Click Here](https://github.com/Mehfila-Parkkulthil/Cpp---Questions/blob/main/Question-2.cpp) | 
 |3||[Click Here](https://github.com/Mehfila-Parkkulthil/Cpp---Questions/blob/main/Question-3.cpp) | 
 |4||[Click Here](https://github.com/Mehfila-Parkkulthil/Cpp---Questions/blob/main/Question-4.cpp) | 
